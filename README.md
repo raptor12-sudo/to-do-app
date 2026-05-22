@@ -103,8 +103,8 @@ cordova build android --release
 | Changer le thème | Bouton 🌙 / ☀️ en haut à droite |
 
 ## Captures d'écran
+<img width="750" height="1520" alt="image" src="https://github.com/user-attachments/assets/62ac8f94-c70e-4c9c-b010-f7c0bf4f2ea6" />
 
-> *(à ajouter)*
 
 ## Auteur
 
